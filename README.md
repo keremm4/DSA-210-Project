@@ -1,48 +1,51 @@
 # DSA-210-Project
-Project Proposal: The Impact of Screen Time on Productivity
+# Project Proposal: The Impact of Screen Time on Productivity
 
-1. Introduction
-In the digital era, screen time has become a part of everyday life with both positive and negative effects. While excessive screen time is related to distractions and decreased productivity, digital tools are also required for academic and professional work. The purpose of this study is to investigate the interaction between screen time and productivity by testing the hypothesis: "Increased screen time reduces productivity."
+## 1. Introduction
+In the digital era, screen time has become an integral part of everyday life, with both positive and negative effects. While excessive screen time is associated with distractions and decreased productivity, digital tools are essential for academic and professional work. The purpose of this study is to investigate the interaction between screen time and productivity by testing the hypothesis: **"Increased screen time reduces productivity."**
 
-The study will consider both supporting and opposing arguments, considering that social media and watching activities can hinder productivity, but  screen use for work and studies is necessary for efficiency and success.
+This study will consider both supporting and opposing arguments, acknowledging that social media and entertainment activities can hinder productivity, whereas screen use for work and studies is necessary for efficiency and success.
 
-2. Objectives
-Main Objective: Determine if increased screen usage negatively affects productivity.
+## 2. Objectives
+### **Main Objective:**
+- Determine whether increased screen usage negatively affects productivity.
 
-Secondary Objectives:
-Differentiating between productive and non-productive screen usage.
+### **Secondary Objectives:**
+- Differentiate between productive and non-productive screen usage.
+- Identify trends regarding the effects of screen use on task performance and overall efficiency.
 
-Determining trends regarding the effects of screen use on task performance as well as overall efficiency.
+## 3. Data Collection Methodology
+### **Tools Used:**
+- **Screen Time Tracker:** Utilize built-in phone settings (iOS Screen Time, Android Digital Wellbeing) to track daily usage.
+- **Daily Productivity Log:** Track completed tasks, study time, and self-reported productivity levels.
+- **Categorization:** Classify screen time into academic/productive vs. entertainment/non-productive.
 
-3. Data Collection Methodology
-Tools Used:
-Screen Time Tracker: Utilizing native phone settings (iOS Screen Time, Android Digital Wellbeing) to track daily use.
+### **Criteria for Productive Screen Time:**
+To minimize subjectivity, productive screen time will be classified as any screen usage directly contributing to work, study, or skill development. This includes:
+- Research, studying, or reading educational material.
+- Writing reports, coding, or working on academic or professional tasks.
+- Attending online classes, meetings, or skill-based learning activities.
+- Using productivity-enhancing tools (e.g., note-taking apps, organizational software, data analysis tools).
 
-Daily Productivity Log: Tracking tasks done, study time, or self-reported productivity level.
+Non-productive screen time will include:
+- Excessive use of social media for entertainment purposes.
+- Watching non-educational videos or streaming unrelated to work/study.
+- Playing video games or engaging in leisure activities that do not contribute to skill-building or productivity.
 
-Categorization: Breaking down screen time into academic/productive vs. entertainment/non-productive.
+## 4. Analysis Plan
+- Compare total screen time with self-reported productivity.
+- Identify correlations between different types of screen time and productivity levels.
+- Look for trends, such as whether lower productivity is linked to excessive social media usage.
+- Determine at what threshold screen time begins to significantly impact efficiency.
 
-4. Analysis Plan
-Comparing total screen time with self-reported productivity.
+## 5. Expected Challenges
+- Self-reporting bias in productivity logs.
+- Difficulty in distinguishing productive from non-productive screen time in certain contexts.
+- Individual differences in study/work habits and multitasking ability.
 
-Finding correlations between different types of screen time and levels of productivity.
-
-Looking for trends, e.g., whether lower productivity is linked to excessive social media usage.
-
-Exploring what amount of screen time starts to impact efficiency measurably.
-
-5. Expected Challenges
-Self-reporting bias in work logs.
-
-Limited ability to separate productive from unproductive screen use.
-
-Variability in work/study habits and multitasking ability.
-
-6. Expected Outcome
-Gaining some insight into how different types of screen time affect productivity.
-
-A balanced discussion on how screen time can both enhance and hinder productivity.
-
-Practical tips on how to manage screen time for optimal productivity.
+## 6. Expected Outcome
+- Insights into how different types of screen time affect productivity.
+- A balanced discussion on how screen time can both enhance and hinder productivity.
+- Practical recommendations for managing screen time to maximize productivity.
 
 By investigating these factors, this study aims to provide a more nuanced understanding of screen time's impact, helping individuals make informed decisions about their digital habits.

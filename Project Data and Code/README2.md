@@ -4,6 +4,7 @@ This project investigates the relationship between daily screen time and self-re
 
 ## 📊 Hypotheses
 > **Null Hypothesis (H0): "Screen time and productivity are not related."**
+
 > **Alternative Hypothesis (H1): "Increased screen time reduces productivity."**
 
 While screen time for social media and entertainment may hinder productivity, academic and professional use (e.g., studying, working) is essential and productive. This project aims to explore both aspects.

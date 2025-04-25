@@ -12,7 +12,7 @@ While screen time for social media and entertainment may hinder productivity, ac
 ## 🗂️ Files
 
 - `main.py` — Python script for data analysis, hypothesis testing, and visualizations.
-- `custom_screen_time_data.csv` — Personal screen time data collected from March 11 to April 25.
+- `screen_time_data.csv` — Personal screen time data collected from March 11 to April 25.
 - `processed_screen_time_data.csv` — File generated after running the analysis script.
 
 ## 🧪 How It Works
